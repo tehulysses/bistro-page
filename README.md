@@ -14,3 +14,4 @@ I also added a logo and plan to create links to different pages in the future.
 4.) Updated the main page with an SVG image for the logo.
 
 Added a footer with social media icons non-interactive.
+
